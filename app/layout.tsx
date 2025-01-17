@@ -14,9 +14,9 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { SearchCommand } from "@/components/search-command";
 
 const DATA = {
-  name: "OS",
-  description: "Web-based Operating System Simulator",
-  url: "http://os.anuragkochar.com/",
+  name: "Windowe",
+  description: "Portfolio",
+  url: "https://windowe.anideepkalia.com/",
 } as const;
 
 export const metadata: Metadata = {
